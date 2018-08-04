@@ -1,0 +1,3 @@
+[submodule "eda_build_scripts"]
+	path = eda_build_scripts
+	url = git@github.com:abraker95/eda_build_scripts.git
